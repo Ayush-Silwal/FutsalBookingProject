@@ -1,0 +1,26 @@
+*
+{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+body{
+    background:rgb(177, 30, 206) ;
+    border: 1px solid black;
+    width: 50%;
+    margin:25% 25% 25% 25%;
+    padding: 20px;
+
+}
+
+
+.form
+{
+    position:absolute;
+    top:50px;
+    left:50px;
+    transform:translate(-50%,-50%);
+    background: rgb(237, 236, 238);
+    width:300px;
+
+}
